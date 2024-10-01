@@ -6,7 +6,7 @@ def q1():
 
 def q2(): 
  ohio =  input ("Input a word: ")
- print (ohio).lower())
+ print (ohio.lower())
  print (ohio.upper())
 
  
